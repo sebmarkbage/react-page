@@ -4,6 +4,7 @@
   "description": "Starter Application for React, CommonJS, JSX, Server Rendering.",
   "main": "index.js",
   "dependencies": {
+    "es5-shim": "~2.1.0",
     "react-art": "~0.4.1",
     "React": "git://github.com/facebook/react.git",
     "optimist": "0.6.0",
